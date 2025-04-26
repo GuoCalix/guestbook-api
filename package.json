@@ -1,0 +1,7 @@
+{
+  "name": "guestbook-api",
+  "version": "1.0.0",
+  "main": "api/comments.js",
+  "type": "module",
+  "license": "MIT"
+}
